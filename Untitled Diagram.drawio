@@ -99,6 +99,12 @@
         <mxCell id="zTmBFJqD1E8golZFQ4i9-20" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="241.74" width="10" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="zTmBFJqD1E8golZFQ4i9-22" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1304.5" y="670" width="101" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zTmBFJqD1E8golZFQ4i9-24" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="580" width="10" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
